@@ -1,0 +1,5 @@
+C:\Users\Omar.Wageeh\source\repos\SampleProj\tests\Application.Tests\obj\Debug\net9.0\Application.Tests.csproj.AssemblyReference.cache
+C:\Users\Omar.Wageeh\source\repos\SampleProj\tests\Application.Tests\obj\Debug\net9.0\Application.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omar.Wageeh\source\repos\SampleProj\tests\Application.Tests\obj\Debug\net9.0\Application.Tests.AssemblyInfoInputs.cache
+C:\Users\Omar.Wageeh\source\repos\SampleProj\tests\Application.Tests\obj\Debug\net9.0\Application.Tests.AssemblyInfo.cs
+C:\Users\Omar.Wageeh\source\repos\SampleProj\tests\Application.Tests\obj\Debug\net9.0\Application.Tests.csproj.CoreCompileInputs.cache

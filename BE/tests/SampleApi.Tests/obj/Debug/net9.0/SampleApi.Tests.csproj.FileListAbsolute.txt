@@ -1,0 +1,6 @@
+C:\Users\Omar.Wageeh\source\repos\SampleProj\tests\SampleApi.Tests\obj\Debug\net9.0\SampleApi.Tests.csproj.AssemblyReference.cache
+C:\Users\Omar.Wageeh\source\repos\SampleProj\tests\SampleApi.Tests\obj\Debug\net9.0\MvcTestingAppManifest.json
+C:\Users\Omar.Wageeh\source\repos\SampleProj\tests\SampleApi.Tests\obj\Debug\net9.0\SampleApi.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omar.Wageeh\source\repos\SampleProj\tests\SampleApi.Tests\obj\Debug\net9.0\SampleApi.Tests.AssemblyInfoInputs.cache
+C:\Users\Omar.Wageeh\source\repos\SampleProj\tests\SampleApi.Tests\obj\Debug\net9.0\SampleApi.Tests.AssemblyInfo.cs
+C:\Users\Omar.Wageeh\source\repos\SampleProj\tests\SampleApi.Tests\obj\Debug\net9.0\SampleApi.Tests.csproj.CoreCompileInputs.cache

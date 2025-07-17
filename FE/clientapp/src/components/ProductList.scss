@@ -1,0 +1,19 @@
+.product-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2rem;
+  justify-content: flex-start;
+  max-width: 1200px;
+  width: 100%;
+  margin: 0 auto;
+  padding: 2.5vw;
+}
+@media (max-width: 900px) {
+  .product-list {
+    flex-direction: column;
+    gap: 1.2rem;
+    align-items: center;
+    padding-left: 1vw;
+    padding-right: 1vw;
+  }
+} 

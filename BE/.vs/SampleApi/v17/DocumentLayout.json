@@ -1,0 +1,197 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Omar.Wageeh\\source\\repos\\SampleProj\\BE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5910B37A-342B-40A7-9046-69962BD2CA33}|src\\SampleApi\\SampleApi.csproj|c:\\users\\omar.wageeh\\source\\repos\\sampleproj\\be\\src\\sampleapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5910B37A-342B-40A7-9046-69962BD2CA33}|src\\SampleApi\\SampleApi.csproj|solutionrelative:src\\sampleapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5910B37A-342B-40A7-9046-69962BD2CA33}|src\\SampleApi\\SampleApi.csproj|c:\\users\\omar.wageeh\\source\\repos\\sampleproj\\be\\src\\sampleapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5910B37A-342B-40A7-9046-69962BD2CA33}|src\\SampleApi\\SampleApi.csproj|solutionrelative:src\\sampleapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35E455B3-A3B1-4A11-B049-D25E0776A646}|tests\\SampleApi.Tests\\SampleApi.Tests.csproj|c:\\users\\omar.wageeh\\source\\repos\\sampleproj\\be\\tests\\sampleapi.tests\\customwebapplicationfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35E455B3-A3B1-4A11-B049-D25E0776A646}|tests\\SampleApi.Tests\\SampleApi.Tests.csproj|solutionrelative:tests\\sampleapi.tests\\customwebapplicationfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35E455B3-A3B1-4A11-B049-D25E0776A646}|tests\\SampleApi.Tests\\SampleApi.Tests.csproj|c:\\users\\omar.wageeh\\source\\repos\\sampleproj\\be\\tests\\sampleapi.tests\\productapitests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35E455B3-A3B1-4A11-B049-D25E0776A646}|tests\\SampleApi.Tests\\SampleApi.Tests.csproj|solutionrelative:tests\\sampleapi.tests\\productapitests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74E6C7EE-CAF6-4049-9C4D-028162A3A61E}|tests\\Application.Tests\\Application.Tests.csproj|c:\\users\\omar.wageeh\\source\\repos\\sampleproj\\be\\tests\\application.tests\\updateproducthandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74E6C7EE-CAF6-4049-9C4D-028162A3A61E}|tests\\Application.Tests\\Application.Tests.csproj|solutionrelative:tests\\application.tests\\updateproducthandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74E6C7EE-CAF6-4049-9C4D-028162A3A61E}|tests\\Application.Tests\\Application.Tests.csproj|c:\\users\\omar.wageeh\\source\\repos\\sampleproj\\be\\tests\\application.tests\\getproductshandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74E6C7EE-CAF6-4049-9C4D-028162A3A61E}|tests\\Application.Tests\\Application.Tests.csproj|solutionrelative:tests\\application.tests\\getproductshandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74E6C7EE-CAF6-4049-9C4D-028162A3A61E}|tests\\Application.Tests\\Application.Tests.csproj|c:\\users\\omar.wageeh\\source\\repos\\sampleproj\\be\\tests\\application.tests\\getproductbyidhandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74E6C7EE-CAF6-4049-9C4D-028162A3A61E}|tests\\Application.Tests\\Application.Tests.csproj|solutionrelative:tests\\application.tests\\getproductbyidhandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74E6C7EE-CAF6-4049-9C4D-028162A3A61E}|tests\\Application.Tests\\Application.Tests.csproj|c:\\users\\omar.wageeh\\source\\repos\\sampleproj\\be\\tests\\application.tests\\deleteproducthandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74E6C7EE-CAF6-4049-9C4D-028162A3A61E}|tests\\Application.Tests\\Application.Tests.csproj|solutionrelative:tests\\application.tests\\deleteproducthandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74E6C7EE-CAF6-4049-9C4D-028162A3A61E}|tests\\Application.Tests\\Application.Tests.csproj|c:\\users\\omar.wageeh\\source\\repos\\sampleproj\\be\\tests\\application.tests\\createproducthandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74E6C7EE-CAF6-4049-9C4D-028162A3A61E}|tests\\Application.Tests\\Application.Tests.csproj|solutionrelative:tests\\application.tests\\createproducthandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35E455B3-A3B1-4A11-B049-D25E0776A646}|tests\\SampleApi.Tests\\SampleApi.Tests.csproj|c:\\users\\omar.wageeh\\source\\repos\\sampleproj\\be\\tests\\sampleapi.tests\\sampleapi.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{35E455B3-A3B1-4A11-B049-D25E0776A646}|tests\\SampleApi.Tests\\SampleApi.Tests.csproj|solutionrelative:tests\\sampleapi.tests\\sampleapi.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\Omar.Wageeh\\source\\repos\\SampleProj\\BE\\src\\SampleApi\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "src\\SampleApi\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\Omar.Wageeh\\source\\repos\\SampleProj\\BE\\src\\SampleApi\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "src\\SampleApi\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAowBQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T08:38:27.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Omar.Wageeh\\source\\repos\\SampleProj\\BE\\src\\SampleApi\\Program.cs",
+              "RelativeDocumentMoniker": "src\\SampleApi\\Program.cs",
+              "ToolTip": "C:\\Users\\Omar.Wageeh\\source\\repos\\SampleProj\\BE\\src\\SampleApi\\Program.cs",
+              "RelativeToolTip": "src\\SampleApi\\Program.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAACQAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T06:52:23.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductApiTests.cs",
+              "DocumentMoniker": "C:\\Users\\Omar.Wageeh\\source\\repos\\SampleProj\\BE\\tests\\SampleApi.Tests\\ProductApiTests.cs",
+              "RelativeDocumentMoniker": "tests\\SampleApi.Tests\\ProductApiTests.cs",
+              "ToolTip": "C:\\Users\\Omar.Wageeh\\source\\repos\\SampleProj\\BE\\tests\\SampleApi.Tests\\ProductApiTests.cs",
+              "RelativeToolTip": "tests\\SampleApi.Tests\\ProductApiTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T06:50:26.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomWebApplicationFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Omar.Wageeh\\source\\repos\\SampleProj\\BE\\tests\\SampleApi.Tests\\CustomWebApplicationFactory.cs",
+              "RelativeDocumentMoniker": "tests\\SampleApi.Tests\\CustomWebApplicationFactory.cs",
+              "ToolTip": "C:\\Users\\Omar.Wageeh\\source\\repos\\SampleProj\\BE\\tests\\SampleApi.Tests\\CustomWebApplicationFactory.cs",
+              "RelativeToolTip": "tests\\SampleApi.Tests\\CustomWebApplicationFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T06:50:08.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UpdateProductHandlerTests.cs",
+              "DocumentMoniker": "C:\\Users\\Omar.Wageeh\\source\\repos\\SampleProj\\BE\\tests\\Application.Tests\\UpdateProductHandlerTests.cs",
+              "RelativeDocumentMoniker": "tests\\Application.Tests\\UpdateProductHandlerTests.cs",
+              "ToolTip": "C:\\Users\\Omar.Wageeh\\source\\repos\\SampleProj\\BE\\tests\\Application.Tests\\UpdateProductHandlerTests.cs",
+              "RelativeToolTip": "tests\\Application.Tests\\UpdateProductHandlerTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T06:50:03.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GetProductsHandlerTests.cs",
+              "DocumentMoniker": "C:\\Users\\Omar.Wageeh\\source\\repos\\SampleProj\\BE\\tests\\Application.Tests\\GetProductsHandlerTests.cs",
+              "RelativeDocumentMoniker": "tests\\Application.Tests\\GetProductsHandlerTests.cs",
+              "ToolTip": "C:\\Users\\Omar.Wageeh\\source\\repos\\SampleProj\\BE\\tests\\Application.Tests\\GetProductsHandlerTests.cs",
+              "RelativeToolTip": "tests\\Application.Tests\\GetProductsHandlerTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T06:49:59.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GetProductByIdHandlerTests.cs",
+              "DocumentMoniker": "C:\\Users\\Omar.Wageeh\\source\\repos\\SampleProj\\BE\\tests\\Application.Tests\\GetProductByIdHandlerTests.cs",
+              "RelativeDocumentMoniker": "tests\\Application.Tests\\GetProductByIdHandlerTests.cs",
+              "ToolTip": "C:\\Users\\Omar.Wageeh\\source\\repos\\SampleProj\\BE\\tests\\Application.Tests\\GetProductByIdHandlerTests.cs",
+              "RelativeToolTip": "tests\\Application.Tests\\GetProductByIdHandlerTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T06:49:58.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DeleteProductHandlerTests.cs",
+              "DocumentMoniker": "C:\\Users\\Omar.Wageeh\\source\\repos\\SampleProj\\BE\\tests\\Application.Tests\\DeleteProductHandlerTests.cs",
+              "RelativeDocumentMoniker": "tests\\Application.Tests\\DeleteProductHandlerTests.cs",
+              "ToolTip": "C:\\Users\\Omar.Wageeh\\source\\repos\\SampleProj\\BE\\tests\\Application.Tests\\DeleteProductHandlerTests.cs",
+              "RelativeToolTip": "tests\\Application.Tests\\DeleteProductHandlerTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T06:49:57.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SampleApi.Tests.csproj",
+              "DocumentMoniker": "C:\\Users\\Omar.Wageeh\\source\\repos\\SampleProj\\BE\\tests\\SampleApi.Tests\\SampleApi.Tests.csproj",
+              "RelativeDocumentMoniker": "tests\\SampleApi.Tests\\SampleApi.Tests.csproj",
+              "ToolTip": "C:\\Users\\Omar.Wageeh\\source\\repos\\SampleProj\\BE\\tests\\SampleApi.Tests\\SampleApi.Tests.csproj",
+              "RelativeToolTip": "tests\\SampleApi.Tests\\SampleApi.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-17T06:49:52.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CreateProductHandlerTests.cs",
+              "DocumentMoniker": "C:\\Users\\Omar.Wageeh\\source\\repos\\SampleProj\\BE\\tests\\Application.Tests\\CreateProductHandlerTests.cs",
+              "RelativeDocumentMoniker": "tests\\Application.Tests\\CreateProductHandlerTests.cs",
+              "ToolTip": "C:\\Users\\Omar.Wageeh\\source\\repos\\SampleProj\\BE\\tests\\Application.Tests\\CreateProductHandlerTests.cs",
+              "RelativeToolTip": "tests\\Application.Tests\\CreateProductHandlerTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T06:48:48.009Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
